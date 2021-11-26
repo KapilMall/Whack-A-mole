@@ -1,0 +1,11 @@
+
+    WHACK-A-MOLE- 
+
+    Leran:
+
+  • querySelector()
+  • addEventListener()
+  • setInterval()
+  • classList
+  • forEach()
+  • Arrow functions
